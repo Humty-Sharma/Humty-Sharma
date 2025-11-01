@@ -27,7 +27,7 @@ I'm actively exploring serverless architecture and how it can enhance the scalab
 
 I'm open to collaborating on projects and learning from fellow developers. If you're working on something exciting or just want to have a chat, feel free to reach out.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hemant-sharma-62636a345/)
 
 Looking forward to connecting with you!
 
